@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+.character {
+	position: absolute;
+	width:100px;
+}
+
+#ai {
+	top: 150px;
+}
+
+
+#player {
+	
+	height: 100px;
+	width: 50px;
+	position: absolute;
+	top:70%;
+	left:350px;
+	background: blue;
+	border: 3px solid red; 
+	
+}
+
+img {
+	width: 100%:
+	height: 100%;
+	
+}
+
+#road {
+	height: 100vh;
+	width: 400px;
+	margin-left: 170px;
+
+	background-color: yellow
+}
+
